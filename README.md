@@ -1,2 +1,2 @@
 # ChromeCode-OS
-The OS for the web/
+The OS for the web.
